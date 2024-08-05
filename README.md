@@ -1,8 +1,6 @@
-## Path Curriculum
+## CS Path Curriculum
 
 ### Intro to Programming
-
-Kickstart your coding journey as you learn all about programming in Python.
 
 - **Introduction to the Computer Science Career Path**
 - **Fundamentals of Python**
@@ -13,14 +11,10 @@ Kickstart your coding journey as you learn all about programming in Python.
 
 ### Intro to Data Structures
 
-Learn how data structures are used by computer programs to store and retrieve data.
-
 - **Linked Lists**
 - **Queues, Stacks, and HashMaps**
 
 ### Algorithms
-
-Learn about algorithmic concepts like asymptotic notation, recursion, searching algorithms, and dynamic programming.
 
 - **Basic Algorithms**
 - **Sorting Algorithms**
@@ -28,15 +22,11 @@ Learn about algorithmic concepts like asymptotic notation, recursion, searching 
 
 ### Trees and Graphs
 
-Learn about Python trees and graphs.
-
 - **Trees and Tree Traversal**
 - **Graphs and Graph Traversal**
 - **Portfolio Project: Creating Recommendation Software**
 
 ### Databases
-
-Learn SQL, PostgreSQL databases, and good database practices.
 
 - **Database Basics**
 - **Working with Databases**
